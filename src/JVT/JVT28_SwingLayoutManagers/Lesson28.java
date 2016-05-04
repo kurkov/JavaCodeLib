@@ -1,4 +1,4 @@
-package JVT.JVT28_SwingLayouts;
+package JVT.JVT28_SwingLayoutManagers;
 
 import javax.swing.*;
 import java.awt.*;
