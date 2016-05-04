@@ -7,7 +7,7 @@ package JVT.JVT11_ArrayLists;
 
 import java.util.ArrayList; // The ArrayList library
 import java.util.Iterator; // The Iterator Library
-import java.util.Arrays; // The JVT.JVT9_Arrays Library
+import java.util.Arrays; // The JVT.JVT09_Arrays Library
 
 public class LessonEleven {
 

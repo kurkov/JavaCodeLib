@@ -1,4 +1,4 @@
-package JVT.JVT9_Arrays;
+package JVT.JVT09_Arrays;
 
 import java.util.Arrays;
 
@@ -134,7 +134,7 @@ public class LessonNine {
         }
 
         // You can copy an array in a couple of ways
-        // JVT.JVT9_Arrays.copyOf(arrayToCopy, numberToCopyFromBeginning);
+        // JVT.JVT09_Arrays.copyOf(arrayToCopy, numberToCopyFromBeginning);
 
         int[] numberCopy = Arrays.copyOf(numberArray, 5);
         for (int num : numberCopy) {
@@ -143,14 +143,14 @@ public class LessonNine {
         System.out.println("\n");
 
         // You can copy an array from one index to another with copyOfRange
-        // int[] numberCopy = JVT.JVT9_Arrays.copyOf(numberArray, 1, 5);
+        // int[] numberCopy = JVT.JVT09_Arrays.copyOf(numberArray, 1, 5);
 
         // You can print out the whole array with toString
         System.out.println(Arrays.toString(numberCopy));
 
 
         // Do define a default value for an array use fill
-        // JVT.JVT9_Arrays.fill(arrayName, valueToFill);
+        // JVT.JVT09_Arrays.fill(arrayName, valueToFill);
         // valueToFill must be the same for each element in the array
 
         int[] moreNumbers = new int[100];

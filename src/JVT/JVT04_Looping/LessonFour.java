@@ -1,4 +1,4 @@
-package JVT.JVT4_Looping;
+package JVT.JVT04_Looping;
 
 import java.util.Scanner; // Library that allows us to capture user input
 

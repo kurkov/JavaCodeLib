@@ -1,10 +1,10 @@
-package JVT.JVT1_HelloWorld;
+package JVT.JVT01_HelloWorld;
 
-// Here I'm defining a new class (Blueprint) named JVT.JVT1_HelloWorld.HelloWorld
+// Here I'm defining a new class (Blueprint) named JVT.JVT01_HelloWorld.HelloWorld
 // public tells Java that this should be available to all other classes
 // classes are blue prints used to design objects that contain attributes (variables) and methods (functions)
-// JVT.JVT1_HelloWorld.HelloWorld is just what you named your program. That allows you to reference it later
-// { is the opening brace that surrounds the code used by JVT.JVT1_HelloWorld.HelloWorld
+// JVT.JVT01_HelloWorld.HelloWorld is just what you named your program. That allows you to reference it later
+// { is the opening brace that surrounds the code used by JVT.JVT01_HelloWorld.HelloWorld
 public class HelloWorld {
     // public allows other classes to use this function
     // static means that only a class can call for this function to execute

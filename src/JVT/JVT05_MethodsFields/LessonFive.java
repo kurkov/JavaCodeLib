@@ -1,4 +1,4 @@
-package JVT.JVT5_MethodsFields;
+package JVT.JVT05_MethodsFields;
 
 import java.util.Scanner; // Scanner is a class that contains a bunch of methods
 

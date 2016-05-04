@@ -1,4 +1,4 @@
-package JVT.JVT3_ConditionalStatements;
+package JVT.JVT03_ConditionalStatements;
 
 public class LessonThree {
 

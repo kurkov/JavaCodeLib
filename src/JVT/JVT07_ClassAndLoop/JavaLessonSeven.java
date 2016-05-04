@@ -1,4 +1,4 @@
-package JVT.JVT7_ClassAndLoop;
+package JVT.JVT07_ClassAndLoop;
 
 public class JavaLessonSeven {
 

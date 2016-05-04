@@ -1,4 +1,4 @@
-package JVT.JVT8_LogicInProgramming;
+package JVT.JVT08_LogicInProgramming;
 
 // Basic class definition
 // public means this class can be used by other classes

@@ -1,4 +1,4 @@
-package JVT.JVT2_UserInput;
+package JVT.JVT02_UserInput;
 
 // To import an external class you use import
 // You can import whole libraries of classes like this import java.util.*;
